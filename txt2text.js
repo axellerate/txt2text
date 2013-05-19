@@ -252,7 +252,8 @@
         'seriously',
         'seriously',
         'ready',
-        'what'
+        'what',
+        'text'
     ];
 
     $.fn.txt2text.array2 = [
@@ -431,6 +432,7 @@
           'srs',
           'srsly',
           'rdy',
-          'wut'
+          'wut',
+          'txt'
     ];
 }( jQuery ));
